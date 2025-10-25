@@ -1,0 +1,14 @@
+# Java / general
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE / build
+/build/
+/out/
+/bin/
+*.iml
+.idea/
+*.apk
+.gradle/
